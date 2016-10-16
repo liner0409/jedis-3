@@ -62,6 +62,7 @@ public class Jedistest1 {
 			}
  		}
 		shardedJedisPool.destroy();
+		System.out.println("a");
 	}
 	
 }
