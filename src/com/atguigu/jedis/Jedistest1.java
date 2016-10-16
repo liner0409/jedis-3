@@ -16,11 +16,12 @@ public class Jedistest1 {
 	
 	@Test
 	public void test1() {
-		Jedis jedis = new Jedis("192.168.0.103", 6379);
-		String string = jedis.set("liner", "love");
-		String liner = jedis.get("liner");
-		System.out.println(liner);
+//		Jedis jedis = new Jedis("192.168.0.103", 6379);
+//		String string = jedis.set("liner", "love");
+//		String liner = jedis.get("liner");
+//		System.out.println(liner);
 		System.out.println("v");
+		System.out.println("a");
 
 	}
 	
