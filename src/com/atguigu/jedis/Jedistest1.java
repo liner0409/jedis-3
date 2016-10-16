@@ -20,6 +20,7 @@ public class Jedistest1 {
 		String string = jedis.set("liner", "love");
 		String liner = jedis.get("liner");
 		System.out.println(liner);
+		System.out.println("v");
 	}
 	
 	//连接池
