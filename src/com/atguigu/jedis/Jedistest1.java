@@ -21,6 +21,7 @@ public class Jedistest1 {
 		String liner = jedis.get("liner");
 		System.out.println(liner);
 		System.out.println("v");
+
 	}
 	
 	//连接池
