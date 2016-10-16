@@ -7,5 +7,6 @@ public class a {
 		System.out.println("c");
 		System.out.println("d");
 		System.out.println("e");
+		System.out.println("e2");
 	}
 }
